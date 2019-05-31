@@ -17,9 +17,10 @@ RIFF.....blahblah_File_BytesData...blahblah
 ----------------------------943086751578906072270154  
 
 #How to use
-0. Install npm NodeJS Configuration
-1. cmd>git clone https://github.com/guripong/amazon_tts_server.git
-2. cmd>node tts.js
+- Please set AWS Configuration at (./config/aws-config.json)
+- Install npm NodeJS Configuration
+- cmd>git clone https://github.com/guripong/amazon_tts_server.git
+- cmd>node tts.js
 
 #Warnning
 - Please set AWS Configuration at (./config/aws-config.json)
