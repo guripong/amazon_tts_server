@@ -1,0 +1,19 @@
+{
+  "name": "amazon-tts-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.463.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "form-data": "^2.3.3",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "multiparty": "^4.2.1"
+  }
+}
