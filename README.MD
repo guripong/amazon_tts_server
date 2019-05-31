@@ -24,5 +24,3 @@ RIFF.....blahblah_File_BytesData...blahblah
 #Warnning
 - Please set AWS Configuration at (./config/aws-config.json)
 - You can change default port at (./tts.js)
-
-
